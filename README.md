@@ -1,7 +1,3 @@
-Certainly! Here's the modified content for Vaishnavi Mapari in a structured format, similar to the example provided:
-
----
-
 # 👋 Hi, I’m @vaishnavi-mapari
 
 **GitHub Portfolio**
